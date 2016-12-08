@@ -11,7 +11,7 @@ CREATE TABLE table_name (
 - SQL 语句以 `;`结束
 - `CREATE TABLE`是一个分句，也可以被称为SQL中的指令，在 SQL 中会执行特定的任务，所有字母大写
 - `table_name` 是指令所操作的表格名称
-- `(column_1 data_type, column_2 data_type, column_3 data_type)` 是参数，参数是一个`columns(列)`,` data types（数据类型）`,`values（值）`的集合，作为参数传递给指令
+- `(column_1 data_type, column_2 data_type, column_3 data_type)` 是参数，参数是`columns(列)`,` data types（数据类型）`,或者是`values（值）`的集合，作为参数传递给指令
 - 书写的时候换不换行无关紧要
 
 
